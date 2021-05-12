@@ -1,0 +1,31 @@
+.side-bar {
+    display: block;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.side-bar-item-li {
+    width: 248px;
+    height: 36px;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.cont_to_li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li_img {
+    margin-right: 5px;
+}
+
+.cont_to_ul {
+    padding-left: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
